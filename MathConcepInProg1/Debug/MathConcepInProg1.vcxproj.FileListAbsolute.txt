@@ -1,0 +1,2 @@
+C:\Users\fes77\source\repos\MathConcepInProg1\Debug\MathConcepInProg1.exe
+C:\Users\fes77\source\repos\MathConcepInProg1\Debug\MathConcepInProg1.pdb

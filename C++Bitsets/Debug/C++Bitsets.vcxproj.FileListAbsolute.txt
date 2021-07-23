@@ -1,0 +1,2 @@
+C:\Users\fes77\source\repos\C++Bitsets\Debug\C++Bitsets.exe
+C:\Users\fes77\source\repos\C++Bitsets\Debug\C++Bitsets.pdb

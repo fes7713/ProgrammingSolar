@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="ProgrammingSolar" Database="" Version="10000">
+  <Project Name="CardGame2-0" Path="CardGame2-0/CardGame2-0.project" Active="No"/>
+  <Project Name="CardGame1-5" Path="CardGame1-5/CardGame1-5.project" Active="No"/>
+  <Project Name="Programming01" Path="Programming01/Programming01.project" Active="No"/>
+  <Project Name="ProgrammingRehat" Path="ProgrammingRehat/ProgrammingRehat.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="CardGame2-0" ConfigName="Debug"/>
+      <Project Name="CardGame1-5" ConfigName="Debug"/>
+      <Project Name="Programming01" ConfigName="Debug"/>
+      <Project Name="ProgrammingRehat" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="CardGame2-0" ConfigName="Release"/>
+      <Project Name="CardGame1-5" ConfigName="Release"/>
+      <Project Name="Programming01" ConfigName="Release"/>
+      <Project Name="ProgrammingRehat" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

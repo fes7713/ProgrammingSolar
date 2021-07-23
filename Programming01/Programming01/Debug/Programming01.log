@@ -1,0 +1,4 @@
+﻿  Programming01.cpp
+C:\Users\fes77\Documents\ProgrammingSolar\Programming01\Programming01\Programming01.cpp(16,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\fes77\Documents\ProgrammingSolar\Programming01\Programming01\Programming01.cpp(26,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Programming01.vcxproj -> C:\Users\fes77\Documents\ProgrammingSolar\Programming01\Debug\Programming01.exe
